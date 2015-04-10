@@ -1,0 +1,5 @@
+/*
+*
+* NgAuction app script
+*
+*/
